@@ -1,0 +1,4 @@
+.footer{
+    background: linear-gradient(135deg, #ff0000, #e46635);
+    transition: background 0.3s ease-in-out;
+}

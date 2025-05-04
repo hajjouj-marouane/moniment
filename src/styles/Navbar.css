@@ -1,0 +1,31 @@
+.navbar {
+    background: linear-gradient(135deg, #ff0000, #e46635);
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .navbar-brand {
+    font-size: 1.8rem;
+    letter-spacing: 1px;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #ffc107 !important;
+  }
+  
+  .btn-outline-light {
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #ffc107;
+    color: black;
+    border-color: #ffc107;
+  }
+ 
+  

@@ -1,0 +1,183 @@
+/* Style pour la section principale */
+.section-travel-guide {
+  position: relative;
+  height: 100vh;
+  /* Hauteur de l'écran */
+  background-size: cover;
+  /* Couverture complète */
+  background-position: center;
+  /* Centrage de l'image */
+  display: flex;
+  align-items: center;
+  /* Centrer verticalement */
+  justify-content: center;
+  /* Centrer horizontalement */
+  color: white;
+  /* Texte en blanc */
+  animation: backgroundAnimation 15s infinite;
+  /* Animation de fond */
+}
+
+/* Animation de changement d'images */
+@keyframes backgroundAnimation {
+  0% {
+    background-image: url('https://bing.com/th?id=OSGI.7CC29CE972B9D91EF784B328D056746A&h=1000&w=1920&c=1&rs=1');
+  }
+
+  33% {
+    background-image: url('https://www.en-vols.com/wp-content/uploads/afmm/2022/12/GettyImages-1294321554_HEADER_Marrakech_local_Michelin.jpg');
+    /* Remplace avec une autre URL d'image */
+  }
+
+  66% {
+    background-image: url('https://i.pinimg.com/originals/46/d6/21/46d621f664fb17082b34215a3387839f.jpg');
+    /* Remplace avec une autre URL d'image */
+  }
+
+  100% {
+    background-image: url('https://i.redd.it/s2ibhxzddmpz.jpg');
+  }
+}
+
+.section-travel-guide::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  /* Couche sombre avec opacité */
+}
+
+.section-travel-guide .content {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.section-travel-guide h1 {
+  font-size: 3rem;
+  /* Taille de police sur petits écrans */
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  /* Espacement en bas */
+}
+
+.section-travel-guide p {
+  font-size: 1.125rem;
+  /* Taille de police pour la description */
+  margin-bottom: 2rem;
+  /* Espacement en bas */
+}
+
+.section-travel-guide .btn-custom {
+  border: none;
+  background-color: #f9c22e;
+  /* Couleur jaune du bouton */
+  color: black;
+  /* Texte noir */
+  font-weight: 600;
+  /* Poids de la police */
+  padding: 0.75rem 2rem;
+  /* Padding autour du texte */
+  border-radius: 9999px;
+  /* Bordure arrondie */
+  transition: background-color 0.3s ease-in-out;
+  /* Animation de survol */
+}
+
+.section-travel-guide .btn-custom:hover {
+  background-color: #f6b600;
+  /* Couleur du bouton au survol */
+}
+
+/* Styles spécifiques aux grandes tailles d'écran */
+@media (min-width: 768px) {
+  .section-travel-guide h1 {
+    font-size: 4.5rem;
+    /* Taille plus grande pour les grands écrans */
+  }
+
+  .section-travel-guide p {
+    font-size: 1.25rem;
+    /* Taille de police plus grande pour les grands écrans */
+  }
+}
+
+/* styles.css  */
+.monuments-marocains {
+  background-color: #fff8f0;
+  padding: 50px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.contenu-avec-image {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 30px;
+  max-width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+
+.image-monument {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+  margin-top: 90px;
+}
+
+.texte-monuments {
+  flex: 1;
+  min-width: 280px;
+}
+
+.texte-monuments h2 {
+  font-size: 32px;
+  color: #b13d2f;
+  margin-bottom: 20px;
+  border-left: 5px solid #b13d2f;
+  padding-left: 15px;
+}
+
+.texte-monuments p {
+  font-size: 17px;
+  line-height: 1.8;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.texte-monuments strong {
+  color: #8b0000;
+}
+
+/* styles.css button */
+
+
+.btn-retour-haut {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: linear-gradient(135deg, #2785cd, #2ec6f9);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-retour-haut:hover {
+  background-color: #de0016;
+}

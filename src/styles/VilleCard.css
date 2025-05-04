@@ -1,0 +1,66 @@
+/* Conteneur principal de la carte */
+.card.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+  border: none;
+box-shadow: 0px 0px 5px;
+}
+
+
+/* Effet au survol */
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Image du monument */
+.card-img-top {
+  height: 350px;
+  object-fit: cover;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+/* Corps de la carte */
+.card-body {
+  padding: 1.25rem;
+}
+
+/* Titre */
+.card-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #b13d2f;
+  margin-bottom: 0.75rem;
+}
+
+/* Lien vers Google Maps */
+.card-body a {
+  color: #e46635;
+}
+
+.card-body a:hover {
+  text-decoration: underline;
+}
+
+/* Texte de description */
+.card-text {
+  margin-top: 1rem;
+  text-align: justify;
+  color: #444;
+}
+
+/* Bouton Détails */
+.card-body .btn-warning {
+  background-color: #f9c22e;
+  color: black;
+  font-weight: 600;
+  border: none;
+  margin-top: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.card-body .btn-warning:hover {
+  background-color: #f6b600;
+}

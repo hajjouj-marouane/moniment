@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Palais El Badi",
+    "image": "https://th.bing.com/th/id/R.31cf3e255c39df459b4c62d3a2998ba3?rik=tDSxAKZvuEtUnw&pid=ImgRaw&r=0",
+    "description": "Ruines d'un palais saadien du XVIe siècle, autrefois somptueux, célèbre pour ses jardins et ses structures massives.",
+    "location": "Marrakech"
+  },
+  {
+    "name": "Tombeaux Saadiens",
+    "image": "https://th.bing.com/th/id/R.15880a520c4dc097ee53d0f87140a79f?rik=tGHPbvSH342nSQ&pid=ImgRaw&r=0",
+    "description": "Nécropole royale datant du XVIe siècle, redécouverte en 1917, ornée de marbre et stuc.",
+    "location": "Marrakech"
+  },
+  {
+    "name": "Chellah",
+    "image": "https://th.bing.com/th/id/R.16769b77acd31a820d9dd74c606146a0?rik=DXsJUk9ensp%2ffA&riu=http%3a%2f%2ftrevorstravels.com%2fwp-content%2fuploads%2f2013%2f02%2fIMG_2412-1600x1200.jpg&ehk=L5glI6MPTf6a6PZCdZFi59ydtuxiVZB08PzQ%2fOmKLmM%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Nécropole mérinide construite sur des ruines romaines, située à l'extérieur de Rabat.",
+    "location": "Rabat"
+  },
+  {
+    "name": "Médersa Ben Youssef",
+    "image": "https://th.bing.com/th/id/OIP.qAdUaHeN86WwNMKClsF7ngHaEK?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "École coranique du XIVe siècle, symbole du raffinement architectural saadien.",
+    "location": "Marrakech"
+  },
+  {
+    "name": "Mosquée Al Quaraouiyine",
+    "image": "https://th.bing.com/th/id/OIP.z00p3e0I8AnuuqI6kS1dGQHaE8?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Fondée en 859, considérée comme la plus ancienne université encore en activité au monde.",
+    "location": "Fès"
+  },
+  {
+    "name": "Kasbah de Taourirt",
+    "image": "https://th.bing.com/th/id/OIP.NroAcIVNvH3gOsW1alzjjAHaEl?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Forteresse historique construite au XVIIe siècle à Ouarzazate, ancienne résidence du pacha El Glaoui.",
+    "location": "Ouarzazate"
+  },
+  {
+    "name": "Kasbah d'Agadir Oufella",
+    "image": "https://th.bing.com/th?id=OLC.z9p6fz%2fUBDHeYg480x360&cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Ancienne forteresse du XVIe siècle surplombant Agadir, détruite en grande partie par le séisme de 1960.",
+    "location": "Agadir"
+  },
+  {
+    "name": "Ruines de la Médina Coco Polizzi",
+    "image": "https://th.bing.com/th/id/OIP.I1Bjt3lDQqxXoUt-bAHcswHaE8?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Reconstitution d’une médina marocaine traditionnelle construite par l’architecte Coco Polizzi.",
+    "location": "Agadir"
+  },
+  {
+    "name": "Mosquée Mohamed V",
+    "image": "https://th.bing.com/th/id/OIP.e08SG_sXrRw0QA777weH8wHaEK?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Grande mosquée contemporaine d'Agadir, connue pour son architecture moderne et sobre.",
+    "location": "Agadir"
+  },
+  {
+    "name": "Kasbah d'Amridil",
+    "image": "https://th.bing.com/th/id/OLC.YJvKH6IwISgqGg480x360?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Kasbah du XVIIe siècle située à Skoura, célèbre pour son architecture en pisé.",
+    "location": "Skoura"
+  },
+  {
+    "name": "Médersa El Attarine",
+    "image": "https://live.staticflickr.com/4217/35177384965_83074615e1_b.jpg",
+    "description": "École coranique fondée au XIVe siècle à Fès, renommée pour son ornementation délicate.",
+    "location": "Fès"
+  },
+  {
+    "name": "Médina de Tétouan",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/04/bc/0f/30.jpg",
+    "description": "Centre historique andalou classé au patrimoine mondial de l'UNESCO.",
+    "location": "Tétouan"
+  },
+  {
+    "name": "Médina d'Essaouira",
+    "image": "https://th.bing.com/th/id/OIP.5Je2lgxMfVwhmE6qoSYp9wHaE8?cb=iwc1&w=798&h=532&rs=1&pid=ImgDetMain",
+    "description": "Ville fortifiée au bord de l'Atlantique, fondée au XVIIIe siècle, influencée par l'architecture européenne.",
+    "location": "Essaouira"
+  },
+  {
+    "name": "Citerne portugaise",
+    "image": "https://th.bing.com/th/id/R.571b3599b94c3779e0298f4c0c3b1baf?rik=FtjgZf2cFhTf%2fQ&riu=http%3a%2f%2fvoyage-au-monde.com%2fwp-content%2fuploads%2f2015%2f10%2fCiterne-portugaise.jpg&ehk=om0j4u6M%2fLyo1oJzj7JfRkDIWCFFr%2f5cCAqAWlF6uzE%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Réservoir d'eau souterrain du XVIe siècle construit par les Portugais à El Jadida.",
+    "location": "El Jadida"
+  },
+  {
+    "name": "Bab Mansour",
+    "image": "https://th.bing.com/th/id/R.4c02440a21c94e611b361e4e99b6e3df?rik=8MveECJGn5pCug&pid=ImgRaw&r=0",
+    "description": "Porte monumentale de Meknès, réputée pour ses mosaïques zellige et ses proportions majestueuses.",
+    "location": "Meknès"
+  },
+  {
+    "name": "Remparts de Taroudant",
+    "image": "https://th.bing.com/th/id/OIP.o-FlDFbZ0vlfH5QUBaNhBAHaE6?cb=iwc1&rs=1&pid=ImgDetMain",
+    "description": "Enceinte fortifiée du XVIe siècle entourant la médina de Taroudant.",
+    "location": "Taroudant"
+  },
+  {
+    "name": "La Sqala",
+    "image": "https://th.bing.com/th/id/R.b2cfac41a14db6c166a63e1946ce40c7?rik=25CxtXnw6H0BqA&riu=http%3a%2f%2fwww.casablanca-cityguide.com%2fwp-content%2fuploads%2f2011%2f03%2fla-sqala-casablanca.jpg&ehk=5hfYFgWEMsiG8ukkikBZzjHuByjeD3XbVutJv1Sc6Y0%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Bastion portugais de Casablanca transformé en lieu touristique et café.",
+    "location": "Casablanca"
+  },
+  {
+    "name": "Cap Spartel",
+    "image": "https://opendoorsmorocco.com/wp-content/uploads/2020/01/Cap-Spartel-Canva.jpg",
+    "description": "Phare historique au point de rencontre de l'Atlantique et de la Méditerranée.",
+    "location": "Tanger"
+  },
+  {
+    "name": "Grottes d'Hercule",
+    "image": "https://th.bing.com/th/id/R.d8f80471e229e0b156d679609aa79f97?rik=3OTDACc6DhoaKg&pid=ImgRaw&r=0",
+    "description": "Cavernes mythiques situées à proximité de Tanger, célèbre pour sa forme de carte d’Afrique.",
+    "location": "Tanger"
+  },
+  {
+    "name": "Kasbah de Chefchaouen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kasbah_Chefchaouen_Maroc.jpg",
+    "description": "Ancienne forteresse au cœur de la ville bleue, construite au XVe siècle.",
+    "location": "Chefchaouen"
+  },
+  {
+    "name": "Grande Mosquée de Taza",
+    "image": "https://th.bing.com/th/id/R.19318b53c00d3ca06c30eb27b14da204?rik=bDVLsLo30mfbgw&pid=ImgRaw&r=0",
+    "description": "Mosquée historique de l'époque almohade avec un impressionnant minaret.",
+    "location": "Taza"
+  },
+  {
+    "name": "Palais Royal de Rabat (vue extérieure)",
+    "image": "http://www.hipmarrakech.com/images/riads/1072753947557f633c4e758.jpg",
+    "description": "Résidence officielle du roi du Maroc, située dans un grand parc royal à Rabat.",
+    "location": "Rabat"
+  },
+  {
+    "name": "Place El Hedim",
+    "image": "https://th.bing.com/th/id/R.2d6727c9f4205ddffeb6f2189a843063?rik=JGH%2bL1rT%2f8KOfA&pid=ImgRaw&r=0",
+    "description": "Grande place historique face à Bab Mansour, animée de souks et spectacles traditionnels.",
+    "location": "Meknès"
+  }
+]
